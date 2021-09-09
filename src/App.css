@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 1rem;
+}
